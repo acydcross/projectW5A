@@ -1,6 +1,6 @@
 #top-content {
     margin: 5vs;
-    border-bottom: 2px double yellow;
+    border-bottom: 2px double rgb(216, 40, 40);
     padding-bottom: 5vw;
 }
 
@@ -16,3 +16,11 @@
 #bottom-text {
     margin: 5vw;
 }
+
+p {
+    font-size: 2rem;
+}
+
+#border {
+        border: 10px double #1C6EA4;
+    }
