@@ -1,0 +1,18 @@
+#top-content {
+    margin: 5vs;
+    border-bottom: 2px double yellow;
+    padding-bottom: 5vw;
+}
+
+#top-text {
+    display: inline-block;
+    width: 60vw;
+}
+
+#top-image {
+    width: 20vw;
+}
+
+#bottom-text {
+    margin: 5vw;
+}
